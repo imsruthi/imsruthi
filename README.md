@@ -91,7 +91,12 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imsruthi&" alt="imsruthi" /></p>
 
 
+## Recent Achievements
+- Completed **50 SQL questions** on LeetCode! 🏅  
+  Focusing on SQL concepts like JOINs, subqueries, window functions, and data aggregation.
+- [Check out my progress on LeetCode]([(https://leetcode.com/u/sruthiarigapudi9/])
 
+I'm looking forward to taking on more challenges and expanding my SQL skills further!
 
 
 
