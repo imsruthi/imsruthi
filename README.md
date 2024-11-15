@@ -93,7 +93,7 @@
 
 ## Recent Achievements
 ## SQL Badge
-![LeetCode SQL Badge]<img width="1176" alt="Screenshot 2024-11-15 at 9 26 23 AM" src="https://github.com/user-attachments/assets/6ec60c8a-afeb-416a-babb-6b739f086fb6">
+<img width="1176" alt="Screenshot 2024-11-15 at 9 26 23 AM" src="https://github.com/user-attachments/assets/6ec60c8a-afeb-416a-babb-6b739f086fb6">
 
 
 
